@@ -103,6 +103,7 @@ public class MainActivity extends AppCompatActivity {
                 wgsToUtm.transform(new ProjCoordinate(Double.parseDouble(y_1), Double.parseDouble(x_1)), result);
 
                 ed_x_2.setText( Integer.toString((int) result.y));
+                /*hghh*/
                 ed_y_2.setText(Integer.toString((int) result.x));
 
             }
