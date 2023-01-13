@@ -85,6 +85,8 @@ public class MainActivity extends AppCompatActivity {
             }else {
 
 
+
+
                 String st_auto_1=auto_1.getText().toString();
                 String st_auto_2=auto_2.getText().toString();
 
